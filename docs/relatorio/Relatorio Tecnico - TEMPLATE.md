@@ -9,13 +9,11 @@ Engenharia de Software / manhã - 1º semestre 2023
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
 > Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+ - Cauan Augusto Morais São José
+ - Conrado Piccinini Bolognani
+ - Davi Augusto Dias Soares
+ - Gabriel Henrique Silva Pereira
 
 # Estrutura do Documento
 
