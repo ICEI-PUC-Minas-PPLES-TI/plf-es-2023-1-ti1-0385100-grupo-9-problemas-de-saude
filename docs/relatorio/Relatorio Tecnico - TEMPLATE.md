@@ -191,14 +191,12 @@ compreensão sobre o problema.
 
 ## Ferramentas
 
-......  
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
 |Processo de Design Thinkgin  | Miro |  ... | 
 |Repositório de código | GitHub | [Github](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2023-1-ti1-0385100-grupo-9-problemas-de-saude.git) | 
 |Hospedagem do site | Heroku |  ... | 
-|Protótipo Interativo | MavelApp ou Figma | ... |  
-......
+|Protótipo Interativo | Figma | ... |  
 
 ## Gestão de código fonte
 
