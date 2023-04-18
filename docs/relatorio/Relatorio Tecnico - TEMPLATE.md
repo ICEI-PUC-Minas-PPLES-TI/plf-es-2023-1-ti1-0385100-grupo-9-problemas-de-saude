@@ -67,21 +67,6 @@ Engenharia de Software / manhã - 1º semestre 2023
 ## Público-Alvo
 
 ...... Estudantes de 17 a 40 ......
-
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
  
 # Especificações do Projeto
 
@@ -172,7 +157,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Wireframe
 
-> ![Wireframe](images/wireframe concentration.png)
+> ![Wireframe](images/wireframe_concentration.png)
 
 ## User Flow
 
