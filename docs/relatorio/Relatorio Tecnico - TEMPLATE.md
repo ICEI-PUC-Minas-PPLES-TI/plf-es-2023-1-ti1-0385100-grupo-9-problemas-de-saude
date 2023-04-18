@@ -66,7 +66,9 @@ Engenharia de Software / manhã - 1º semestre 2023
 
 ## Público-Alvo
 
-...... Estudantes de 17 a 40 ......
+O nosso público alvo tem como foco as pessoas mais jovens entre 16 a 35, que fazem graduação, ou estejam em outro nível de escolaridade. No processo de Design Thinking conseguimos conhecer melhor o público, percebemos também, através do processo de pesquisa, uma incidência maior de ansiedade em ambientes escolares, tanto em instituições de ensino fundamental, como em ambientes acadêmicos.
+
+Percebemos também, que atualmente, esse público é constantemente exposto a informações de todo tipo, por meio dos dispositivos móveis. Utilizando os mesmos não só para questões pessoais, mas também como ferramentas de estudos e trabalho, sendo uma geração completamente conectada com a tecnologia.
  
 # Especificações do Projeto
 
