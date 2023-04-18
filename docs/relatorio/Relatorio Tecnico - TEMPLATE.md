@@ -170,7 +170,7 @@ compreensão sobre o problema.
 |Hospedagem do site | Heroku |  ... | 
 |Protótipo Interativo | Figma | ... |  
 
-## Gestão de código fonte
+## Gestão de código fonte / Controle de versão
 
 Para gestão do código fonte, vamos utilizar o GitHub. Ele nos permite que
 todas as versões e as mudanças dos componentes do projeto sejam armazenadas,
