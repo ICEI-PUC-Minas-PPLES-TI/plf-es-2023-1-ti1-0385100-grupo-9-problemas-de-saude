@@ -160,7 +160,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## User Flow
 
-> ![Userflow](images/wireframe-userflow.png)
+> ![Userflow](images/Userflow.png)
 
 # Metodologia
 
