@@ -66,17 +66,16 @@ Engenharia de Software / manhã - 1º semestre 2023
 
 ## Público-Alvo
 
-O nosso público alvo tem como foco as pessoas mais jovens entre 16 a 35, que fazem graduação, ou estejam em outro nível de escolaridade. No processo de Design Thinking conseguimos conhecer melhor o público, percebemos também, através do processo de pesquisa, uma incidência maior de ansiedade em ambientes escolares, tanto em instituições de ensino fundamental, como em ambientes acadêmicos.
-
-Percebemos também, que atualmente, esse público é constantemente exposto a informações de todo tipo, por meio dos dispositivos móveis. Utilizando os mesmos não só para questões pessoais, mas também como ferramentas de estudos e trabalho, sendo uma geração completamente conectada com a tecnologia.
+...... Estudantes de 17 a 40 ......
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
+......  
+1.Entrevistas: foram realizadas entrevistas com estudantes de diferentes níveis educacionais 
+2.Brainstorming: uma técnica de brainstorming foi utilizada para gerar ideias sobre as funcionalidades que o aplicativo deveria ter para ajudar a lidar com a ansiedade
+3.Documentação técnica: durante todo o processo de especificação do projeto, foram criados documentos técnicos que descrevem as funcionalidades, fluxos de navegação e requisitos do aplicativo.
+4.Prototipagem: foram criados protótipos do aplicativo para testar a usabilidade e a experiência do usuário. 
+......
 
 ## Personas, Empatia e Proposta de Valor
 
@@ -167,23 +166,21 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Nesta parte do documento, você deve apresentar a metodologia 
-> adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
-> a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a
-> gestão de configuração do projeto via GitHub.
->
-> Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido
-> pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar
-> o andamento do projeto, a execução das tarefas e o status de desenvolvimento
-> da solução.
-> 
-> **Links Úteis**:
-> - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
-> - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
-> - [Gerência de projetos - Trello com Scrum](https://www.youtube.com/watch?v=DHLA8X_ujwo)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+......  
+Para o desenvolvimento do Projeto será utilizado como metodologia ágil, o
+Scrum. O mesmo foi escolhido, pois com base na metodologia ágil Scrum podemos
+desenvolver um dinamismo maior quanto a comunicação e colaboração entre os
+membros do grupo, muito importante para construção do projeto proposto.
+Com a metodologia ágil Scrum também conseguimos fazer entregas cada
+vez mais funcionais e compatíveis com o que foi proposto de solução, de maneira
+ainda mais ágil. O processo do Scrum também nos permite realizar alterações
+menos burocráticas quanto aos requisitos ao longo do projeto, aspecto importante
+na criação de um software que atenda com precisão as necessidades do usuário.
+Já para o estudo inicial do problema trabalhado pelo grupo, utilizamos o
+processo de Design Thinking, onde se realizou entrevistas ao público alvo do
+projeto, criação de personas e a ideação, o que nos possibilitou uma maior
+compreensão sobre o problema.
+......
 
 ## Divisão de Papéis
 
@@ -198,37 +195,51 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Ferramentas
 
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
-
+......  
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
-|Processo de Design Thinkgin  | Miro |  https://miro.com/XXXXXXX | 
-|Repositório de código | GitHub | https://github.com/XXXXXXX | 
-|Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
-|Protótipo Interativo | MavelApp ou Figma | https://figma.com/XXXXXXX | 
+|Processo de Design Thinkgin  | Miro |  ... | 
+|Repositório de código | GitHub | [Github](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2023-1-ti1-0385100-grupo-9-problemas-de-saude.git) | 
+|Hospedagem do site | Heroku |  ... | 
+|Protótipo Interativo | MavelApp ou Figma | ... |  
+......
 
->
-> Liste as ferramentas empregadas no desenvolvimento do
-> projeto, justificando a escolha delas, sempre que possível.
-> 
-> As ferramentas empregadas no projeto são:
-> 
-> - Editor de código.
-> - Ferramentas de comunicação
-> - Ferramentas de diagramação
-> - Plataforma de hospedagem
-> 
-> O editor de código foi escolhido porque ele possui uma integração com o
-> sistema de versão. As ferramentas de comunicação utilizadas possuem
-> integração semelhante e por isso foram selecionadas. Por fim, para criar
-> diagramas utilizamos essa ferramenta por melhor captar as
-> necessidades da nossa solução.
-> 
-> **Links Úteis - Hospedagem**:
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Crie seu Site com o HostGator](https://www.hostgator.com.br/como-publicar-seu-site)
-> - [GoDady](https://br.godaddy.com/how-to)
-> - [GitHub Pages](https://pages.github.com/)
+## Gestão de código fonte
+
+......  Para gestão do código fonte, vamos utilizar o GitHub. Ele nos permite que
+todas as versões e as mudanças dos componentes do projeto sejam armazenadas,
+tendo assim um controle maior sobre todas alterações feitas no documento. Com
+isso, se tem uma rastreabilidade maior, possibilitando modificações, como
+atualizações de software, correção de bugs, adição de ferramentas, entre outros, de
+forma mais rápida e simplificada. ......
+
+## Gerenciamento do Projeto
+
+### Trello
+
+......  Para o gerenciamento de tarefas do projeto, vamos utilizar o Trello como
+ferramenta, o Trello é baseado em listas de cartões, classificadas por fases de
+realização, com ele podemos colaborar e ter uma visão sobre todas as tarefas
+realizadas pelo grupo, proporcionando um entendimento maior sobre tudo o que
+precisa ser realizado, o que está em andamento e as tarefas finalizadas.
+Para o projeto, planejamos criar fases onde teremos, uma parte para as
+tarefas a serem realizadas, em andamento, para revisão, finalizadas, e possíveis
+sugestões para o projeto. Para os cartões planejamos deixá-los da seguinte forma,
+título da tarefa, membro responsável pela tarefa, descrição da tarefa, datas para
+entrega, e possíveis sugestões e anexos que possam auxiliar a equipe.
+Acreditamos que a utilização do Trello pode nos ajudar muito para
+colaboração e comunicação em equipe, e na organização e atualização da equipe
+sobre os status de cada tarefa realizada.
+ ......
+ 
+### Figma
+
+......  Para criação do wireframe, optamos por utilizar o figma, uma ferramenta
+utilizada para criação de designers voltados para interfaces de usuários, com ele
+pudemos colaborar de forma ativa, em conjunto, pois a ferramenta permite fazer
+alterações em grupo. O que nos ajudou significativamente no processo de validação
+de todas funcionalidades planejadas inicialmente para o usuário final, formando um
+ambiente de compartilhamento de ideias e sugestões enriquecedor. ......
 
 ## Controle de Versão
 
