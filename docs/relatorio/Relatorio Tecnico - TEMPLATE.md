@@ -167,7 +167,6 @@ compreensão sobre o problema.
 |-----------|-------------------------|---------------|
 |Processo de Design Thinkgin  | Miro |  https://miro.com/app/board/uXjVMY8ZlNI=/ | 
 |Repositório de código | GitHub | [Github](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2023-1-ti1-0385100-grupo-9-problemas-de-saude.git) | 
-|Hospedagem do site | Heroku |  ... | 
 |Protótipo Interativo | Figma | ... |  
 
 ## Gestão de código fonte
