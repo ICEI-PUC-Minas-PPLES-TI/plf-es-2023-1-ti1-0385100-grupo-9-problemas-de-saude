@@ -92,67 +92,39 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|ID    | Descrição do Requisito  |Prioridade |
+|------|-------------------------|----|
+|RF-001| Possuir um cronômetro para a aplicação do método pomodoro | ALTA |
+|RF-002| Possuir diferentes músicas e técnicas de relaxamento para o usuário escolher | ALTA |
+|RF-003| Mostrar mensagens motivacionais na tela de início | ALTA |
+|RF-004| Permitir que o usuário envie feedback e dúvidas sobre o aplicativo | MÉDIA |
+|RF-005| Mostrar as pessoas envolvidas e os links e referências usados no desenvolvimento | ALTA |
+|RF-006| Botão que vá à tela inicial | ALTA |
+|RF-006| Botão que mostre todas as funcionalidades do software | ALTA |
 
+### Requisitos não Funcionais
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
-> Com base nas Histórias de Usuário, enumere os requisitos da sua
-> solução. Classifique esses requisitos em dois grupos:
->
-> - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na
->   plataforma (ex: cadastro de usuário).
->
-> - [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade,
->   desempenho, confiabilidade, segurança ou outro (ex: suporte a
->   dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-> 
-> **Links Úteis**:
-> 
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+|RNF-001| Confiabilidade: o software deve funcionar de acordo com o esperado, sem apresentar falhas | ALTA |
+|RNF-002| Usabilidade: o software deve ser fácil de entender e usar | ALTA |
+|RNF-003| Manutenibilidade: o software deve ser fácil de atualizar e modificar | ALTA |
+|RNF-004| Responsividade: o software deve ser capaz de se adaptar a diferentes dispositivos, de tamanhos variados |
 
 
 ## Restrições
 
-O projeto está restrito pelos itens apresentados na tabela a seguir.
-
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
-
-> Enumere as restrições à sua solução. Lembre-se de que as restrições
-> geralmente limitam a solução candidata.
-> 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
+|02| Não pode ser desenvolvido um módulo de backend |
+|03| Não pode ser usado react |
 
 # Projeto de Interface
 
-......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
-
-> Apresente as principais interfaces da solução. Discuta como 
-> foram elaboradas de forma a atender os requisitos funcionais, não
-> funcionais e histórias de usuário abordados nas [Especificações do
-> Projeto](#especificações-do-projeto).
+As interfaces foram pensadas e estruturada de moda que seja de facil uso para os usuários, sendo voltada tanto para desktop quanto para dispositivos moveis.
 
 ## Wireframe
 
