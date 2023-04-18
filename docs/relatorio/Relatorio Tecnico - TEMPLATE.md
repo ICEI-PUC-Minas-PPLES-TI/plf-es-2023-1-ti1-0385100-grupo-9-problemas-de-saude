@@ -286,11 +286,6 @@ ambiente de compartilhamento de ideias e sugestões enriquecedor.
 
 # Referências
 
-......  COLOQUE AQUI O SEU TEXTO ......
+ALURA. Trello: Aprenda a usar essa ferramenta para organização de tarefas. Disponível em: https://www.alura.com.br/artigos/trello. Acesso em: 16 abr. 2023.
 
-> Inclua todas as referências (livros, artigos, sites, etc) utilizados
-> no desenvolvimento do trabalho.
-> 
-> **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
+HOSTINGER. O que é GitHub? Como usar? Disponível em: https://www.hostinger.com.br/tutoriais/o-que-github. Acesso em: 16 abr. 2023.
