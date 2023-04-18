@@ -54,31 +54,26 @@ Engenharia de Software / manhã - 1º semestre 2023
 
 ## Problema
 
-......  O problema identificado pelo grupo e que a os problemas envolvendo  ansiedade no ambiente estudantil "tamto escola como faculdade "cresceu após a pandemia  chegando a níveis alarmantes  ......
+O problema identificado pelo grupo e que a os problemas envolvendo  ansiedade no ambiente estudantil "tamto escola como faculdade "cresceu após a pandemia  chegando a níveis alarmantes
 
 ## Objetivos
 
-......  Criar um APP que trará as diversas funcionalidades tais como as técnicas de relançamento que vão proporcionar uma mitigação do problema  ......
+Criar um APP que trará as diversas funcionalidades tais como as técnicas de relançamento que vão proporcionar uma mitigação do problema  
 
 ## Justificativa
 
-......  Pela junção da entrevista e da vivência dos integrantes do grupo concluímos que criar um aplicativo que reúna técnicas de estudo e de relacionamento  ......
+Pela junção da entrevista e da vivência dos integrantes do grupo concluímos que criar um aplicativo que reúna técnicas de estudo e de relacionamento  
 
 ## Público-Alvo
 
-O nosso público alvo tem como foco as pessoas mais jovens entre 16 a 35, que fazem graduação, ou estejam em outro nível de escolaridade. No processo de Design Thinking conseguimos conhecer melhor o público, percebemos também, através do processo de pesquisa, uma incidência maior de ansiedade em ambientes escolares, tanto em instituições de ensino fundamental, como em ambientes acadêmicos. Tendo como demanda, dificuldades parecidas quanto ao processo de lidar com a ansiedade.
-
-Percebemos também, que atualmente, esse público é constantemente exposto a informações de todo tipo, por meio dos dispositivos móveis. Utilizando os mesmos não só para questões pessoais, mas também como ferramentas de estudos e trabalho, sendo uma geração completamente conectada com a tecnologia.
-
+Estudantes de 17 a 40 
  
 # Especificações do Projeto
 
-......  >
 - Entrevistas: foram realizadas entrevistas com estudantes de diferentes níveis educacionais 
 - Brainstorming: uma técnica de brainstorming foi utilizada para gerar ideias sobre as funcionalidades que o aplicativo deveria ter para ajudar a lidar com a ansiedade
 - Documentação técnica: durante todo o processo de especificação do projeto, foram criados documentos técnicos que descrevem as funcionalidades, fluxos de navegação e requisitos do aplicativo.
 - Prototipagem: foram criados protótipos do aplicativo para testar a usabilidade e a experiência do usuário. 
-......
 
 ## Personas, Empatia e Proposta de Valor
 
@@ -169,7 +164,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Metodologia
 
-......  
 Para o desenvolvimento do Projeto será utilizado como metodologia ágil, o
 Scrum. O mesmo foi escolhido, pois com base na metodologia ágil Scrum podemos
 desenvolver um dinamismo maior quanto a comunicação e colaboração entre os
@@ -183,7 +177,6 @@ Já para o estudo inicial do problema trabalhado pelo grupo, utilizamos o
 processo de Design Thinking, onde se realizou entrevistas ao público alvo do
 projeto, criação de personas e a ideação, o que nos possibilitou uma maior
 compreensão sobre o problema.
-......
 
 ## Divisão de Papéis
 
@@ -209,18 +202,18 @@ compreensão sobre o problema.
 
 ## Gestão de código fonte
 
-......  Para gestão do código fonte, vamos utilizar o GitHub. Ele nos permite que
+Para gestão do código fonte, vamos utilizar o GitHub. Ele nos permite que
 todas as versões e as mudanças dos componentes do projeto sejam armazenadas,
 tendo assim um controle maior sobre todas alterações feitas no documento. Com
 isso, se tem uma rastreabilidade maior, possibilitando modificações, como
 atualizações de software, correção de bugs, adição de ferramentas, entre outros, de
-forma mais rápida e simplificada. ......
+forma mais rápida e simplificada.
 
 ## Gerenciamento do Projeto
 
 ### Trello
 
-......  Para o gerenciamento de tarefas do projeto, vamos utilizar o Trello como
+Para o gerenciamento de tarefas do projeto, vamos utilizar o Trello como
 ferramenta, o Trello é baseado em listas de cartões, classificadas por fases de
 realização, com ele podemos colaborar e ter uma visão sobre todas as tarefas
 realizadas pelo grupo, proporcionando um entendimento maior sobre tudo o que
@@ -233,16 +226,15 @@ entrega, e possíveis sugestões e anexos que possam auxiliar a equipe.
 Acreditamos que a utilização do Trello pode nos ajudar muito para
 colaboração e comunicação em equipe, e na organização e atualização da equipe
 sobre os status de cada tarefa realizada.
- ......
  
 ### Figma
 
-......  Para criação do wireframe, optamos por utilizar o figma, uma ferramenta
+Para criação do wireframe, optamos por utilizar o figma, uma ferramenta
 utilizada para criação de designers voltados para interfaces de usuários, com ele
 pudemos colaborar de forma ativa, em conjunto, pois a ferramenta permite fazer
 alterações em grupo. O que nos ajudou significativamente no processo de validação
 de todas funcionalidades planejadas inicialmente para o usuário final, formando um
-ambiente de compartilhamento de ideias e sugestões enriquecedor. ......
+ambiente de compartilhamento de ideias e sugestões enriquecedor.
 
 ## Controle de Versão
 
