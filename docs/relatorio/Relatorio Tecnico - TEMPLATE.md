@@ -165,12 +165,12 @@ compreensão sobre o problema.
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
-|Processo de Design Thinkgin  | Miro |  ... | 
+|Processo de Design Thinkgin  | Miro |  https://miro.com/app/board/uXjVMY8ZlNI=/ | 
 |Repositório de código | GitHub | [Github](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2023-1-ti1-0385100-grupo-9-problemas-de-saude.git) | 
 |Hospedagem do site | Heroku |  ... | 
 |Protótipo Interativo | Figma | ... |  
 
-## Gestão de código fonte / Controle de versão
+## Gestão de código fonte
 
 Para gestão do código fonte, vamos utilizar o GitHub. Ele nos permite que
 todas as versões e as mudanças dos componentes do projeto sejam armazenadas,
