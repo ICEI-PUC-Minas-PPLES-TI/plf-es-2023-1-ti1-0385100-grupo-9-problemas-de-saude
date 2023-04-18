@@ -70,11 +70,11 @@ Engenharia de Software / manhã - 1º semestre 2023
  
 # Especificações do Projeto
 
-......  
-1.Entrevistas: foram realizadas entrevistas com estudantes de diferentes níveis educacionais 
-2.Brainstorming: uma técnica de brainstorming foi utilizada para gerar ideias sobre as funcionalidades que o aplicativo deveria ter para ajudar a lidar com a ansiedade
-3.Documentação técnica: durante todo o processo de especificação do projeto, foram criados documentos técnicos que descrevem as funcionalidades, fluxos de navegação e requisitos do aplicativo.
-4.Prototipagem: foram criados protótipos do aplicativo para testar a usabilidade e a experiência do usuário. 
+......  >
+- Entrevistas: foram realizadas entrevistas com estudantes de diferentes níveis educacionais 
+- Brainstorming: uma técnica de brainstorming foi utilizada para gerar ideias sobre as funcionalidades que o aplicativo deveria ter para ajudar a lidar com a ansiedade
+- Documentação técnica: durante todo o processo de especificação do projeto, foram criados documentos técnicos que descrevem as funcionalidades, fluxos de navegação e requisitos do aplicativo.
+- Prototipagem: foram criados protótipos do aplicativo para testar a usabilidade e a experiência do usuário. 
 ......
 
 ## Personas, Empatia e Proposta de Valor
